@@ -2,7 +2,7 @@
 # 检查叮咚买菜是否有可配送时段,有则通过Bark推送
 
 # (*)请填充BarkId
-barkId="1962259514"
+barkId="nKakNQnE5g6srFHy36Rn97"
 
 while :; do
 
